@@ -1,2 +1,3 @@
-# Day_30
-100 Days of Code Day 30
+# 100 Days of Code Day 30
+
+## Flash Card App
